@@ -1,0 +1,11 @@
+streamlit>=1.40
+pandas
+numpy
+pillow
+imagehash
+pymupdf
+python-pptx
+openpyxl
+opencv-python-headless
+# opsional (label kamera dari teks di dashboard CCTV; butuh Tesseract terpasang di komputer/server):
+# pytesseract
