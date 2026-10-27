@@ -39,8 +39,6 @@ Rekan satu jaringan buka `http://<IP-PC-itu>:8501`. Gratis, dan dokumen tidak ke
 - Vercel **tidak disarankan** untuk app ini (lihat penjelasan di chat).
 - Kalau pakai fitur OCR label kamera (opsional), tambah file `packages.txt` berisi `tesseract-ocr` dan aktifkan `pytesseract` di requirements.
 
-> ⚠️ Dokumen BAST/CCTV adalah data internal. Sebelum deploy ke layanan cloud publik, pastikan dulu boleh menurut kebijakan perusahaan.
-
 ## Cara pakai
 1. Pilih tab **BAST Checker** atau **CCTV Checker**.
 2. Upload file (banyak sekaligus) **atau** 1 file **ZIP** berisi folder-folder (nama subfolder ikut muncul di laporan).
